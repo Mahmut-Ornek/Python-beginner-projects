@@ -1,53 +1,63 @@
+# README: Python Project Collection
+
 This repository contains a collection of 12 Python projects inspired by the video tutorial: [12 Beginner Python Projects](https://youtu.be/8ext9G7xspg?feature=shared). Each project is designed to reinforce fundamental programming concepts while building practical applications.
 
 ## **Projects Overview**
 
-### 1. Mad Libs Generator
-
+### 1. Mad Libs
 A simple word replacement game that takes user input to create funny sentences.
 
-### 2. Number Guessing Game
+### 2. Guess the Number (Computer)
+A game where the computer randomly selects a number, and the user attempts to guess it with feedback provided.
 
-A game where the user guesses a randomly generated number with hints provided.
+### 3. Guess the Number (User)
+A game where the user picks a number, and the computer tries to guess it using binary search logic.
 
-### 3. Rock, Paper, Scissors
-
+### 4. Rock, Paper, Scissors
 A command-line implementation of the classic game against the computer.
 
-### 4. Password Generator
+### 5. Hangman
+A word-guessing game where the player tries to guess the word before running out of attempts.
 
-A script that generates secure passwords with random characters.
+### 6. Tic-Tac-Toe
+A two-player Tic-Tac-Toe game implemented in Python.
 
-### 5. Dice Rolling Simulator
+### 7. Tic-Tac-Toe AI
+An AI-powered version of Tic-Tac-Toe where the player competes against an intelligent computer opponent.
 
-Simulates rolling dice with random number generation.
+### 8. Binary Search Algorithm
+A demonstration of the binary search algorithm for searching sorted lists efficiently.
 
-### 6. QR Code Generator
+### 9. Minesweeper
+A text-based version of the classic Minesweeper game.
 
-Generates a QR code from user input (e.g., a URL or text).
+### 10. Sudoku Solver
+A program that automatically solves Sudoku puzzles using backtracking algorithms.
 
-### 7. Calculator
+### 11. Photo Manipulation in Python
+A project demonstrating how to manipulate images using Python libraries like Pillow or OpenCV.
 
-A basic calculator with addition, subtraction, multiplication, and division.
-
-### 8. To-Do List App
-
-A command-line to-do list that allows users to add, remove, and mark tasks as complete.
-
-### 9. Countdown Timer
-
-A timer that counts down from a specified number of seconds.
-
-### 10. Binary Search Algorithm
-
-A demonstration of the binary search algorithm for searching sorted lists.
-
-### 11. Web Scraper
-
-Extracts information from a website using BeautifulSoup.
-
-### 12. Text-Based Markov Chain Generator *(Connected to Your Code)*
-
+### 12. Markov Chain Text Composer *(Connected to Your Code)*
 A program that generates text based on probability mappings of words in a given input. This is similar to the `compose.py` and `graph.py` scripts in this repository, which use a Markov chain approach to generate text compositions.
+
+## Running the Markov Chain Project
+
+### Prerequisites
+Ensure you have Python installed and the necessary dependencies.
+
+### Usage
+1. Place a text file in the `texts/` directory (e.g., `hp_sorcerer_stone.txt`).
+2. Run `compose.py` to generate a random text composition:
+   ```bash
+   python compose.py
+   ```
+3. The script will process the text, build a word graph, and generate a probabilistic sequence of words.
+
+## Contribution
+Feel free to modify and expand upon these projects. Contributions are welcome!
+
+## License
+This project is open-source under the MIT License.
+
 
 
