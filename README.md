@@ -1,8 +1,8 @@
 # README: Python Project Collection
 
-Improve your Python skills by following along with 12 different Python project tutorials: [12 Beginner Python Projects](https://youtu.be/8ext9G7xspg?feature=shared). Each project is designed to reinforce fundamental programming concepts while building practical applications.
+Improve your Python skills by following along with 12 different Python project tutorials: [12 Beginner Python Projects](https://youtu.be/8ext9G7xspg?feature=shared). Each project is designed to reinforce fundamental programming concepts while building practical applications. 🚀🚀🚀
 
-🎥 Course developed by Kylie Ying. Check out her YouTube channel:    https://www.youtube.com/ycubed
+🎥 Course developed by Kylie Ying. Check out her YouTube channel:    https://www.youtube.com/ycubed 
 
 ## **Projects Overview**
 
@@ -58,8 +58,7 @@ Ensure you have Python installed and the necessary dependencies.
 ## Contribution
 Feel free to modify and expand upon these projects. Contributions are welcome!
 
-## License
-This project is open-source under the MIT License.
+
 
 
 
